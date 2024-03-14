@@ -4,5 +4,5 @@ if (location.pathname.match(/fullcpgrid/i) ? true : false) {
 
 const button = document.getElementById("button");
 button.addEventListener("click", function() {
-  window.location.href = "https://shkollaprendushi.com";
+  window.location.href = "https://rebrand.ly/gazetaeshkolles";
 });
